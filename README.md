@@ -1,10 +1,9 @@
-### Hi👋 I'm [Oleksandra Lavryk](https://github.com/oleksandra-lavryk)
+### Hi👋 I'm [Oleksandra Lavryk](https://www.linkedin.com/in/oleksandra-lavryk/)
 
 I graduated from HackYourFuture coding bootcamp in Aarhus and continue to improve my acquired skills.
 
 - 🏠 Haderslev, Denmark.
-- 👀 I’m currently looking for an opportunity to work as a Frontend Developer/Intern.
-- 💻 I continue learning ReactJS.
+- 💻 Frontend Developer Intern at [NordInsight](https://www.nordinsight.com/).
 - 📧 Reach me: [oleksandra.lavryk96@gmail.com](mailto:oleksandra.lavryk96@gmail.com)
 - 🎲 I like to play board games and cook 🍪
 - 🔹 Look at my **[portfolio](https://oleksandra-lavryk.github.io/oleksandra-lavryk-portfolio/)**
