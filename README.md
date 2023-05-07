@@ -1,6 +1,7 @@
 ### Hi👋 I'm [Oleksandra Lavryk](https://www.linkedin.com/in/oleksandra-lavryk/)
 
-I graduated from HackYourFuture coding bootcamp in Aarhus and continue to improve my acquired skills.
+I graduated from HackYourFuture coding bootcamp in Aarhus and currently, I am  Frontend Developer Intern at NordInsight. 
+I am looking for an opportunity to work as a Frontend Developer and continue to improve my acquired skills.
 
 - 🏠 Haderslev, Denmark.
 - 💻 Frontend Developer Intern at [NordInsight](https://www.nordinsight.com/).
