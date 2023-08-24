@@ -1,7 +1,7 @@
 ### Hi👋 I'm [Oleksandra Lavryk](https://www.linkedin.com/in/oleksandra-lavryk/)
 
 - 🏘️ Haderslev, Denmark. From Ukraine 💙💛
-- 💻 Frontend Developer Intern at [NordInsight](https://www.nordinsight.com/).
+- 💻 Frontend Developer
 - 📧 Reach me: [oleksandra.lavryk96@gmail.com](mailto:oleksandra.lavryk96@gmail.com)
 - 🎲 I like to play board games and cook 🍪
 - 🔹 Look at my **[portfolio](https://oleksandra-lavryk.github.io/oleksandra-lavryk-portfolio/)**
